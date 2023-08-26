@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Preserve existing Create React App CSS */
+
+/* Custom styling for the new design */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.app-heading {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #ffffff; /* Header text color */
+}
+
+.app-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 600px;
+  /* width: 100%; */
+  background-color: #2d2d2d; /* Form background color */
+ padding: 60px 30px 60px 30px;
+  border-radius: 20px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.app-label {
+  text-align: left;
+  font-weight: bold;
+  font-size: 16px;
+  color: #ffffff; /* Label text color */
+  margin-bottom: 5px;
+}
+
+.app-textarea,
+.app-input,
+.app-file-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.5); /* Slightly transparent background */
+  color: #ffffff; /* Input text color */
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.app-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.app-score {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #ffffff; /* Score text color */
+}
+/* App.css */
+/* ...existing CSS... */
+
+/* Styles for the modal */
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+

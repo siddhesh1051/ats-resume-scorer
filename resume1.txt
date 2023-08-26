@@ -1,0 +1,49 @@
+Sushrut Athawale
++91-9623479393 | sushrutathawale1509@gmail.com | ¯ SushrutAthawale | Sushrutkun
+Education
+Indian Institute of Information Technology, Nagpur Nagpur ,India
+Bachelor of Technology in ECE (B.Tech.); CGPA: 8.36/10 Nov. 2020 – July. 2024
+Relevent Coursework
+Data Structures& Algorithm, Operating Systems, Application Programming, Database Management and
+Systems ,Computer Architecture and Organization, Embedded Systems
+Projects  React React React React React React React React 
+Job-Board | (React.js , MaterialUI , Rapid Api) Github – Live
+• Real-time Job Search: A React.js website using Material UI to display real-time job postings fetched from the
+JobSearch API (Rapid API).
+• Material UI for UI Development: The user interface (UI) of the website is developed using Material UI, a React
+component library known for its modern and visually appealing design.
+• Pagination Support: To enhance usability, the website displays 10 companies per page, and pagination is
+implemented to allow users to easily navigate through multiple pages of job listings.
+• Job Name Search: The site offers a search functionality that enables users to search for specific jobs by their names.
+This feature helps users find relevant job opportunities that match their preferences.
+CoinStats | ReactJs , ChartJs , Material UI Github – Live
+• Real-time Cryptocurrency View: A React.js website displaying real-time data of various cryptocurrencies by the
+use of API which contains more than 200 currencies
+• Material UI Integration: Material UI is used to create an attractive and responsive CoinPage.
+• UI Carousel: Interactive UI Carousel for seamless navigation between Coins.
+• Chart.js Integration: Detailed data of each currency shown in weekly, monthly, and yearly charts.
+• Search Functionality: Users can search and view specific Coin details on a dedicated page.
+SocioCard | MongoDb ,ExpressJs ,RectJs ,Nodejs ,Redux Github – Live
+• Comprehensive MERN Stack App:Developed a full-stack application using MongoDB, Express.js, React.js,
+and Node.js, showcasing proficiency in the entire technology stack.
+• Feature-Rich Functionality: Implemented user authentication, post creation, comments, and advanced search
+with pagination, enhancing user engagement and content discoverability.
+• Effortless Navigation and Presentation: Seamlessly integrated React Router DOM for smooth page
+transitions, while the dynamic details page provided a captivating interface for individual posts.
+• Efficient State Management: Leveraged Redux to streamline state management across components, ensuring
+optimal performance and data synchronization.
+Technical Skills React React 
+Languages: C/C++, DSA, JavaScript, HTML ,CSS3 , SQL/MySql , MERN , Mongodb, ExpressJs, ReactJS ,NodeJs
+Frameworks: Material-UI, RapidAPI
+Developer Tools: Git / Github, VS Code, Visual Studio, PyCharm, Android Studio, Matlab ,Excel ,Adobe Premiere
+Pro
+Libraries: Pandas, NumPy, Matplotlib, ReactJs, Redux
+Coding Skills
+Leetcode GeeksforGeeks CodeChef HackerRank
+Achievements
+• Mastered Over 800 DSA Challenges Across Top Platforms
+• CodeChef with a 3-Star Rating
+• Member of Marketing React React  Team in Abhivyakti a IIITN exclusive cultural event and helped in corporate operations.
+• Badges in Data Structures & Algorithm, C++ ,C Language
+• Accelerated Computer Science Fundamentals by Illinois certificate
+• Mathematics for Machine Learning by Imperial College London certificate
