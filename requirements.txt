@@ -1,0 +1,4 @@
+Flask==2.1.0
+PyPDF2==1.26.0
+scikit-learn==0.24.2
+Flask-Cors==4.0.0

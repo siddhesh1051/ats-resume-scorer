@@ -26,7 +26,7 @@ function App() {
     formData.append('resume', resume);
 
     try {
-      const response = await axios.post('http://127.0.0.1:5000/calculate_similarity', formData);
+      const response = await axios.post('https://ats-resume-scorer.onrender.com/calculate_similarity', formData);
       setScore(response.data.score);
       openModal();
     } catch (error) {
